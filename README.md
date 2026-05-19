@@ -172,3 +172,5 @@ This concept is heavily used in:
 ## 📄 License
 
 This project is open-source and free to use.
+
+<img width="811" height="734" alt="image" src="https://github.com/user-attachments/assets/9474ea46-11ad-40a8-82ed-a9ef1290a46f" />
